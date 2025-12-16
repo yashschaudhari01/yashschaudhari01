@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Backend Developer
 
-🚀 Data Engineer with hands-on experience building scalable, cloud-native data pipelines and backend systems on AWS.  
+🚀 Backend developer with hands-on experience building scalable, cloud-native data pipelines and backend systems and AWS.  
 I focus on automation, reliability, and delivering high-quality data at scale.
 
 ---
@@ -17,7 +17,7 @@ I focus on automation, reliability, and delivering high-quality data at scale.
 ## 🛠️ Tech Stack
 **Languages**
 - 🐍 Python  
-- 🧮 SQL  
+- 🧮 SQL
 
 **Data Engineering**
 - 🔄 ETL Pipelines  
@@ -49,6 +49,10 @@ I focus on automation, reliability, and delivering high-quality data at scale.
 - ✅ Improved data reliability through retry mechanisms and validations
 - ✅ Worked with large datasets for downstream analytics and processing
 - ✅ Focused on scalable, fault-tolerant system design
+
+---
+## 🔙 Backend Development
+- Django, Django Rest Framework, Scrapy, Regex, BeautifulSoup, MySQL, PostgreSQL, SQLite
 
 ---
 
