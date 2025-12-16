@@ -1,14 +1,14 @@
 # 👋 Hi, I'm a Backend Developer
 
 🚀 Backend developer with hands-on experience building scalable, cloud-native data pipelines and backend systems and AWS.  
-I focus on automation, reliability, and delivering high-quality data at scale.
+I focus on automation, reliability, and delivering high-quality data at scale and building backend systems.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔧 Experienced in designing and maintaining **ETL/data pipelines**
 - ☁️ Strong exposure to **AWS serverless & container-based architectures**
-- 🌐 Built and operated **large-scale web scraping systems (500+ websites)**
+- 🌐 Built and operated **large-scale web scraping systems (500+ websites), backend APIs**
 - 📈 Passionate about **data engineering, distributed systems, and performance optimization**
 - 🕒 Started open source a bit late, but fully committed to consistent growth and contribution
 
@@ -20,9 +20,7 @@ I focus on automation, reliability, and delivering high-quality data at scale.
 - 🧮 SQL
 
 **Data Engineering**
-- 🔄 ETL Pipelines  
-- 📊 Batch Processing  
-- ✅ Data Validation & Cleaning  
+- 🔄 ETL Pipelines, Batch Processing, Data Validation & Cleaning  
 
 **Cloud & DevOps**
 - ☁️ AWS Lambda, SQS, ECS, S3  
@@ -30,16 +28,15 @@ I focus on automation, reliability, and delivering high-quality data at scale.
 - 🐧 Linux  
 
 **Big Data**
-- ⚡ PySpark (beginner → growing)  
+- ⚡ PySpark (beginner → growing)
+
+**Backend Development**
+- Django, Django Rest Framework,  MySQL, PostgreSQL, MongoDB
 
 **Web Scraping**
-- 🕷️ High-volume scraping & crawler design  
+- 🕷️ High-volume scraping & crawler design (Scrapy, requests, Playwright, Selenium)
 - 🛡️ Anti-blocking strategies & error handling  
 - 📦 Structured & semi-structured data extraction  
-
-**Tools**
-- 🔧 Git & GitHub  
-- 🌐 REST APIs  
 
 ---
 
@@ -50,9 +47,6 @@ I focus on automation, reliability, and delivering high-quality data at scale.
 - ✅ Worked with large datasets for downstream analytics and processing
 - ✅ Focused on scalable, fault-tolerant system design
 
----
-## 🔙 Backend Development
-- Django, Django Rest Framework, Scrapy, Regex, BeautifulSoup, MySQL, PostgreSQL, SQLite
 
 ---
 
